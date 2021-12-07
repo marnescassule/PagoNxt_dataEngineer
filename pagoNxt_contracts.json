@@ -1,0 +1,29 @@
+[{
+    "contract_id":3,
+    "client_id":3545,
+    "client_name":"Magazine Luana",
+    "percentage": 2.00,
+    "is_active":true
+},
+{
+    "contract_id":4,
+    "client_id":3545,
+    "client_name":"Magazine Luana",
+    "percentage": 1.95,
+    "is_active":false
+},
+{
+    "contract_id":5,
+    "client_id":3509,
+    "client_name":"Lojas Italianas",
+    "percentage": 1,
+    "is_active":true
+},
+{
+    "contract_id":6,
+    "client_id":3510,
+    "client_name":"Carrerfive",
+    "percentage": 3.00,
+    "is_active":true
+}            
+]
